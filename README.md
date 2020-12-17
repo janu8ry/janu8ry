@@ -5,4 +5,4 @@
 현재 제가 주로 사용하고 있는 언어는 Python 이고, C도 배우고 있습니다.
 
 
-![Github](https://github-readme-stats.vercel.app/api?username=L4by&show_icons=true)
+![Github](https://github-readme-stats.vercel.app/api?username=janu8ry&show_icons=true)
