@@ -6,3 +6,5 @@
 
 
 ![Github](https://github-readme-stats.vercel.app/api?username=janu8ry&show_icons=true&theme=onedark)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=janu8ry&show_icons=true&theme=onedark)
