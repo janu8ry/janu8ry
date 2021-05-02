@@ -8,6 +8,8 @@
 
 현재 제가 주로 사용하고 있는 언어는 Python 이고, JavaScript도 배우고 있습니다.
 
+![Github](https://github-readme-stats.vercel.app/api?username=janu8ry&show_icons=true&theme=onedark)
+
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,7 +43,3 @@
 ![macbook](https://img.shields.io/badge/Apple-MacBook_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![raspberry](https://img.shields.io/badge/RASPBERRY%20PI-ubuntu_20.04-C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 
-
-
-
-![Github](https://github-readme-stats.vercel.app/api?username=janu8ry&show_icons=true&theme=onedark)
