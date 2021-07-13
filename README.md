@@ -21,6 +21,7 @@
 
 ## Framework & Libraries
 ![discordbot](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-F9A437?style=for-the-badge&logo=aiohttp&logoColor=white)
