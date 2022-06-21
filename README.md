@@ -50,6 +50,6 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ## Workspace
-![macbook](https://img.shields.io/badge/Apple-MacBook_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
+![macbook](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![raspberry](https://img.shields.io/badge/RASPBERRY%20PI-ubuntu_20.04-C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 
