@@ -1,4 +1,5 @@
 # Hi!
+I'm student interested in Machine Learning & Data Science, Web.
 
 ![Github](https://github-readme-stats.vercel.app/api?username=janu8ry&show_icons=true&theme=onedark)
 
